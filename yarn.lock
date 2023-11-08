@@ -2185,17 +2185,16 @@
     react-dropzone "14.2.3"
     tslib "^2.5.0"
 
-"@patternfly/react-component-groups@1.0.15":
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/@patternfly/react-component-groups/-/react-component-groups-1.0.15.tgz#c7327a47496c1106722df122222e586d2ddbca18"
-  integrity sha512-yphWgM8RVxcbrHUtiQ0uGQ8ArOFlrES+3LRZYxbEkoK7s4taTMY1RTp6OVf3Kekfqw7QavKkVWXY/qTyfFm/Kw==
+"@patternfly/react-component-groups@5.0.0-prerelease.5":
+  version "5.0.0-prerelease.5"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-component-groups/-/react-component-groups-5.0.0-prerelease.5.tgz#88880e550ab23d6f591c24dbc11bda1829fdbeb8"
+  integrity sha512-LsOUwn4ldocLTx2M/XE4y72RQ5O5ZF5qfHoWRa7WusgmAI06l/fAhg8Et6teiDR9PopQiIiIVFqlBljhGrmKww==
   dependencies:
-    "@patternfly/react-core" "^5.0.0"
-    "@patternfly/react-icons" "^5.0.0"
-    classnames "^2.2.5"
-    react-jss "^10.9.2"
-    react-router "^6.3.0"
-    react-router-dom "^6.3.0"
+    "@patternfly/react-core" "^5.1.1"
+    "@patternfly/react-icons" "^5.1.1"
+    "@patternfly/react-table" "^5.1.1"
+    clsx "^2.0.0"
+    react-jss "^10.10.0"
 
 "@patternfly/react-console@5.0.0":
   version "5.0.0"
@@ -4063,6 +4062,11 @@ clone@^1.0.2:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/clone/-/clone-1.0.4.tgz#da309cc263df15994c688ca902179ca3c7cd7c7e"
   integrity sha1-2jCcwmPfFZlMaIypAheco8fNfH4=
+
+clsx@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/clsx/-/clsx-2.0.0.tgz#12658f3fd98fafe62075595a5c30e43d18f3d00b"
+  integrity sha512-rQ1+kcj+ttHG0MKVGBUXwayCCF1oh39BF5COIpRzuCEv8Mwjv0XucrI2ExNTOn9IlLifGClWQcU9BrZORvtw6Q==
 
 cmd-shim@^5.0.0:
   version "5.0.0"
@@ -9647,7 +9651,7 @@ react-is@^16.13.1, react-is@^16.7.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-jss@^10.9.2:
+react-jss@^10.10.0, react-jss@^10.9.2:
   version "10.10.0"
   resolved "https://registry.yarnpkg.com/react-jss/-/react-jss-10.10.0.tgz#d08ab3257b0eed01e15d6d8275840055c279b0da"
   integrity sha512-WLiq84UYWqNBF6579/uprcIUnM1TSywYq6AIjKTTTG5ziJl9Uy+pwuvpN3apuyVwflMbD60PraeTKT7uWH9XEQ==
