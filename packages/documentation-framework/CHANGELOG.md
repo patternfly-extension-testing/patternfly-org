@@ -3,6 +3,47 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 5.3.5 (2023-11-13)
+
+
+### Bug Fixes
+
+* **drag drop:** add drag drop to 5.1 versions.json ([#3817](https://github.com/patternfly/patternfly-org/issues/3817)) ([d2dec78](https://github.com/patternfly/patternfly-org/commit/d2dec78730dae818c4a2f5d6bab89d98de14e80d))
+
+
+
+
+
+## 5.3.4 (2023-11-13)
+
+
+### Bug Fixes
+
+* add charts dark theme stylesheet ([#3802](https://github.com/patternfly/patternfly-org/issues/3802)) ([03954ed](https://github.com/patternfly/patternfly-org/commit/03954edbf429d6e3a8e9d460c61b5ea9f6d441a6))
+
+
+
+
+
+## 5.3.3 (2023-11-10)
+
+**Note:** Version bump only for package @patternfly/documentation-framework
+
+
+
+
+
+## 5.3.2 (2023-11-10)
+
+
+### Bug Fixes
+
+* clean up versions and showdown deps ([#3816](https://github.com/patternfly/patternfly-org/issues/3816)) ([aae74d0](https://github.com/patternfly/patternfly-org/commit/aae74d0196d2205c2828ad831773c379a62e8bd8))
+
+
+
+
+
 ## 5.3.1 (2023-11-07)
 
 
