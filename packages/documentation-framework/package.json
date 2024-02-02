@@ -78,7 +78,7 @@
   },
   "peerDependencies": {
     "@patternfly/patternfly": "5.2.0-prerelease.7",
-    "@patternfly/react-code-editor": "5.2.0-prerelease.50",
+    "@patternfly/react-code-editor": "5.2.0-prerelease.51",
     "@patternfly/react-core": "5.2.0-prerelease.49",
     "@patternfly/react-table": "5.2.0-prerelease.49",
     "react": "^17.0.0 || ^18.0.0",
