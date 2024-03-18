@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.6.0 (2024-03-13)
+
+
+### Features
+
+* **deps:** version bump and release notes for 5.2.2 patch release ([#3919](https://github.com/patternfly/patternfly-org/issues/3919)) ([94d3654](https://github.com/patternfly/patternfly-org/commit/94d3654768f42f2ae7b3c0734d1e5f211cd33ff6))
+
+
+
+
+
+## 1.5.1 (2024-03-12)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.5.0 (2024-03-08)
+
+
+### Features
+
+* **deps:** version bump for 5.2.1 release ([#3913](https://github.com/patternfly/patternfly-org/issues/3913)) ([46cc8b7](https://github.com/patternfly/patternfly-org/commit/46cc8b70e06b9bda61067beba57d928e428b73c5))
+
+
+
+
+
 ## 1.4.3 (2024-02-27)
 
 **Note:** Version bump only for package @patternfly/ast-helpers
