@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.10.0 (2024-04-02)
+
+
+### Features
+
+* **Templates:** add to org site ([#3947](https://github.com/patternfly/patternfly-org/issues/3947)) ([a869dee](https://github.com/patternfly/patternfly-org/commit/a869dee87cc39296df9226f3fc1d780dce893a54))
+
+
+
+
+
+## 1.9.1 (2024-04-02)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.9.0 (2024-04-02)
+
+
+### Features
+
+* **docs:** update medium articles ([#3950](https://github.com/patternfly/patternfly-org/issues/3950)) ([5288ec1](https://github.com/patternfly/patternfly-org/commit/5288ec1fb1f7e744ed142585384840c8d415d9e5))
+
+
+
+
+
 ## 1.8.3 (2024-03-28)
 
 **Note:** Version bump only for package @patternfly/ast-helpers
