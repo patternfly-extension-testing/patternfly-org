@@ -3,6 +3,90 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.13.3 (2024-04-24)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+## 1.13.2 (2024-04-23)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+## 1.13.1 (2024-04-23)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.13.0 (2024-04-18)
+
+
+### Features
+
+* **docs:** update release highlights with links ([#3972](https://github.com/patternfly/patternfly-org/issues/3972)) ([f5a9724](https://github.com/patternfly/patternfly-org/commit/f5a972493ffa34cdc36b53459cc55a206ee52330))
+
+
+
+
+
+# 1.12.0 (2024-04-18)
+
+
+### Features
+
+* **org:** update to 5.3 release versions ([#3970](https://github.com/patternfly/patternfly-org/issues/3970)) ([08ee6c3](https://github.com/patternfly/patternfly-org/commit/08ee6c3fad9d0b5bf98f20b12530dd818ff66f9c))
+
+
+
+
+
+# 1.11.0 (2024-04-17)
+
+
+### Features
+
+* **docs:** update screenshots ([#3969](https://github.com/patternfly/patternfly-org/issues/3969)) ([dff042b](https://github.com/patternfly/patternfly-org/commit/dff042b70a206d27990924673e360d908c01eac4))
+
+
+
+
+
+## 1.10.3 (2024-04-17)
+
+
+### Bug Fixes
+
+* **docs:** proper commit ([#3968](https://github.com/patternfly/patternfly-org/issues/3968)) ([e4a09dd](https://github.com/patternfly/patternfly-org/commit/e4a09dd6905e7fa3acd1e536675942183f2d943d))
+
+
+
+
+
+## 1.10.2 (2024-04-17)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+## 1.10.1 (2024-04-17)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
 # 1.10.0 (2024-04-02)
 
 
