@@ -3,6 +3,263 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.4.0-alpha.160 (2025-03-12)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.159 (2025-03-11)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.158 (2025-03-11)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.157 (2025-03-05)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.156 (2025-02-27)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.155 (2025-02-26)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.154 (2025-02-17)
+
+
+### Bug Fixes
+
+* **getHtmlWebpackPlugins:** Turn off pre-render for ChatBot ([#4467](https://github.com/patternfly/patternfly-org/issues/4467)) ([9bd77f2](https://github.com/patternfly/patternfly-org/commit/9bd77f2c07b33697d6ddefddc8b89139f7027444))
+
+
+
+
+
+# 1.4.0-alpha.153 (2025-02-17)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.152 (2025-01-29)
+
+
+### Bug Fixes
+
+* export valid SVGs in all icons page ([#4450](https://github.com/patternfly/patternfly-org/issues/4450)) ([3f0a8da](https://github.com/patternfly/patternfly-org/commit/3f0a8da0396b91d9aebcd802f4a621917f102129))
+
+
+
+
+
+# 1.4.0-alpha.151 (2025-01-29)
+
+
+### Bug Fixes
+
+* Update yarn.lock ([#4452](https://github.com/patternfly/patternfly-org/issues/4452)) ([563a053](https://github.com/patternfly/patternfly-org/commit/563a0538eff085c48a97000cfcc104b72e97cdfe))
+
+
+
+
+
+# 1.4.0-alpha.150 (2025-01-28)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.149 (2025-01-27)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.148 (2025-01-27)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.147 (2025-01-24)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.146 (2025-01-21)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.145 (2025-01-14)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.144 (2025-01-09)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.143 (2025-01-07)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.142 (2025-01-07)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.141 (2024-12-18)
+
+
+### Features
+
+* **dark theme:** revert localstorage/pref feature ([#4424](https://github.com/patternfly/patternfly-org/issues/4424)) ([0ffa269](https://github.com/patternfly/patternfly-org/commit/0ffa269a06d474a6a3069047e506ca83767d9e9c))
+
+
+
+
+
+# 1.4.0-alpha.140 (2024-12-17)
+
+
+### Features
+
+* **ver:** fix release dropdown ([#4421](https://github.com/patternfly/patternfly-org/issues/4421)) ([efd6d87](https://github.com/patternfly/patternfly-org/commit/efd6d87d98fbf9b1f7036e9980da93ac256f7aed))
+
+
+
+
+
+# 1.4.0-alpha.139 (2024-12-17)
+
+
+### Features
+
+* **ver:** fix dropdown ver ([#4418](https://github.com/patternfly/patternfly-org/issues/4418)) ([e2d297c](https://github.com/patternfly/patternfly-org/commit/e2d297cae19372728760f8cc025ff9ac38f06375))
+
+
+
+
+
+# 1.4.0-alpha.138 (2024-12-17)
+
+
+### Features
+
+* **ver:** update to 6.1 ([#4417](https://github.com/patternfly/patternfly-org/issues/4417)) ([ccf9ef5](https://github.com/patternfly/patternfly-org/commit/ccf9ef502f474ea6ce0383896fc718125e36f04f))
+
+
+
+
+
+# 1.4.0-alpha.137 (2024-12-12)
+
+
+### Bug Fixes
+
+* **dark-theme:** fixed issue with incorrect color-scheme being applied ([#4408](https://github.com/patternfly/patternfly-org/issues/4408)) ([29f1e10](https://github.com/patternfly/patternfly-org/commit/29f1e10f355c99b4ffc79e34626fd5efafae5809))
+
+
+
+
+
+# 1.4.0-alpha.136 (2024-12-09)
+
+**Note:** Version bump only for package @patternfly/ast-helpers
+
+
+
+
+
+# 1.4.0-alpha.135 (2024-12-09)
+
+
+### Bug Fixes
+
+* update featured blog posts ([#4407](https://github.com/patternfly/patternfly-org/issues/4407)) ([b4be0bf](https://github.com/patternfly/patternfly-org/commit/b4be0bf46d734f64e0e7f1f86ed2f46cec3e4729))
+
+
+
+
+
+# 1.4.0-alpha.134 (2024-12-09)
+
+
+### Features
+
+* **ver:** update to 6.1 prerelease versions ([#4405](https://github.com/patternfly/patternfly-org/issues/4405)) ([8f9dd5e](https://github.com/patternfly/patternfly-org/commit/8f9dd5edc4c907f5b170e24a1d99d66a79c5eca5))
+
+
+
+
+
+# 1.4.0-alpha.133 (2024-12-09)
+
+
+### Bug Fixes
+
+* packages/documentation-framework/package.json to reduce vulnerabilities ([#4406](https://github.com/patternfly/patternfly-org/issues/4406)) ([4629e41](https://github.com/patternfly/patternfly-org/commit/4629e41a3446cb9c99b4c671ea4d44bf9fb7f219))
+
+
+
+
+
 # 1.4.0-alpha.132 (2024-12-04)
 
 **Note:** Version bump only for package @patternfly/ast-helpers
